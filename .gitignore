@@ -11,3 +11,4 @@ logs/
 .DS_Store
 *.zip
 test-results/
+scratch/
