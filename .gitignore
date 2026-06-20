@@ -1,0 +1,13 @@
+.env
+venv/
+node_modules/
+__pycache__/
+*.pyc
+cache/
+logs/
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
+*.zip
+test-results/
